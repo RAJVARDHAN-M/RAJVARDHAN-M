@@ -1,19 +1,18 @@
 <p align="center">
 <!--  <img align="center" width="700" src="https://foodaddiction.com/wp-content/uploads/2021/03/animated-presentation-software-header.gif"> -->
 </p>
-<h2> Hi there, I am Saurabh!</h2>
+<h2> Hi there, I am Rajvardhan!</h2>
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
-<p><em> MERN Developer with a big interest in AI/ML 👨‍💻</em></p>
+<p><em> MERN Developer with a big interest in DSA 👨‍💻</em></p>
 
 ```javascript
 const MySelf = {
- Name: "Saurabh Shete",
+ Name: "Rajvardhan Mane",
  programmingSkills: {
     clientSoftware: ["HTML","CSS", "JavaScript", "Tailwind-Css", "React.js", "Redux.js"],
-    serverSoftware: ["Node.js","Express.js"],
+    serverSoftware: ["Node.js","Express.js","MongooDB","SQL"],
     programming_lang: ["Javascript","C","Python","C++"]
     Tools & IDE: ["Vscode","Git","Jupyter Notebook","Google Colab"],
-    Libraries: ["TensorFlow", "Sklearn"]
   },
   languages: ["Hindi", "English","Marathi"],
   currentFocus: "Learning and implementing"
