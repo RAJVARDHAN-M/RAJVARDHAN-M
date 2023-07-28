@@ -27,11 +27,11 @@ const MySelf = {
 <a href="https://www.leetcode.com/garry000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garry000" height="30" width="40" /></a> -->
 
 </p>
-<img src="https://komarev.com/ghpvc/?username=saurabh-shete&color=dc143c">
+<img src="https://komarev.com/ghpvc/?username=RAJVARDHAN-M&color=dc143c">
 
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-shete">
-<img src="https://github-readme-stats.vercel.app/api?username=saurabh-shete">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJVARDHAN-M">
+<img src="https://github-readme-stats.vercel.app/api?username=RAJVARDHAN-M">
 
 </p>
